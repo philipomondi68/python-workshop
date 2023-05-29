@@ -2,8 +2,7 @@
 <h2 align="center">29<sup>th</sup> May – 2<sup>nd</sup> June 2023, Naivasha, Kenya</h2>
 
 ## Goal:
-The main goal of the training is to improve the capacity of ICPAC staff in the use and
-applications of Python programming for hydrological and climate forecast modeling.
+The main goal of the training is to understand the importance of Github in climate science and apply in day-to-day work.
 
 ## Outputs/Outcomes:
 * Understanding basic Python concepts and libraries (netCDF manipulation files,
